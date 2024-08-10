@@ -1,42 +1,19 @@
-
-<<<<<<< HEAD
-
 .container {
     text-align: center;
 }
 
-=======
-body {
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background-color: #f4f4f4;
-}
-.container {
-    text-align: center;
-}
->>>>>>> 1be883ba487528e34f0ff29daf7e4592b7812176
 h1 {
     font-size: 36px;
     margin: 0;
     color: #333;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 1be883ba487528e34f0ff29daf7e4592b7812176
 h2 {
     font-size: 18px;
     color: #666;
     margin: 0 0 20px 0;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 1be883ba487528e34f0ff29daf7e4592b7812176
 .login-box {
     background-color: #fff;
     padding: 20px;
@@ -44,10 +21,7 @@ h2 {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     display: inline-block;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 1be883ba487528e34f0ff29daf7e4592b7812176
 input[type="text"],
 input[type="password"] {
     width: 100%;
@@ -57,10 +31,7 @@ input[type="password"] {
     border: 1px solid #ccc;
     background-color: #e7f6e7;
 }
-<<<<<<< HEAD
 
-=======
->>>>>>> 1be883ba487528e34f0ff29daf7e4592b7812176
 .login-btn {
     background-color: #333;
     color: #fff;
@@ -71,31 +42,18 @@ input[type="password"] {
     width: 100%;
     margin-top: 10px;
 }
-<<<<<<< HEAD
 
 .login-btn:hover {
     background-color: #555;
 }
 
-=======
-.login-btn:hover {
-    background-color: #555;
-}
->>>>>>> 1be883ba487528e34f0ff29daf7e4592b7812176
 .forgot-password {
     margin-top: 15px;
     display: block;
     color: #333;
     text-decoration: none;
 }
-<<<<<<< HEAD
 
 .forgot-password:hover {
     text-decoration: underline;
 }
-=======
-.forgot-password:hover {
-    text-decoration: underline;
-}
-
->>>>>>> 1be883ba487528e34f0ff29daf7e4592b7812176
